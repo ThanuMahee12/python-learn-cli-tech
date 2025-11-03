@@ -1,0 +1,1 @@
+nums,oper=input("Enter two numbers separated by space: ").split()
